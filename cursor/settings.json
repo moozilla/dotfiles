@@ -1,0 +1,72 @@
+{
+    "telemetry.telemetryLevel": "off",
+    "workbench.startupEditor": "newUntitledFile",
+    "editor.formatOnSave": true,
+    "editor.acceptSuggestionOnEnter": "off",
+    "editor.rulers": [
+        80
+    ],
+    "[python]": {
+        "editor.rulers": [
+            88
+        ],
+        "editor.defaultFormatter": "charliermarsh.ruff"
+    },
+    "workbench.colorTheme": "Dracula At Night",
+    "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+    "[svelte]": {
+        "editor.defaultFormatter": "svelte.svelte-vscode"
+    },
+    "git.ignoreWindowsGit27Warning": true,
+    "[plaintext]": {
+        "editor.quickSuggestions": {
+            "comments": "off",
+            "strings": "off",
+            "other": "off"
+        }
+    },
+    "security.workspace.trust.untrustedFiles": "open",
+    "diffEditor.wordWrap": "off",
+    "editor.wordWrap": "wordWrapColumn",
+    "editor.accessibilitySupport": "off",
+    "workbench.editorAssociations": {
+        "*.ipynb": "jupyter-notebook"
+    },
+    "notebook.cellToolbarLocation": {
+        "default": "right",
+        "jupyter-notebook": "left"
+    },
+    "files.trimTrailingWhitespace": true,
+    "files.insertFinalNewline": true,
+    "files.trimFinalNewlines": true,
+    "[json]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "window.zoomLevel": 1,
+    "[javascript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "terminal.integrated.fontFamily": "MesloLGS NF",
+    "explorer.confirmDelete": false,
+    "jupyter.widgetScriptSources": [
+        "jsdelivr.com",
+        "unpkg.com"
+    ],
+    "files.associations": {
+        "*.toml": "toml"
+    },
+    "editor.formatOnPaste": true,
+    "isort.check": true,
+    "git.enableSmartCommit": true,
+    "terminal.integrated.defaultProfile.osx": "zsh",
+    "editor.smoothScrolling": true,
+    "terminal.integrated.smoothScrolling": true,
+    "explorer.confirmDragAndDrop": false,
+    "cursor.cpp.disabledLanguages": [
+        "plaintext"
+    ],
+    "markdown.marp.exportAutoOpen": false,
+    "markdown.marp.exportType": "html",
+    "claudeCode.preferredLocation": "sidebar",
+    "claudeCode.useTerminal": true
+}
